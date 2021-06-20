@@ -1,4 +1,9 @@
-.section-hero {
-  background: #ffc947;
+.invNavbar {
+  background: #ff94c2;
+}
+
+.invNavbarMenuList {
+  color: white;
+  font-weight: 500;
 }
 /*# sourceMappingURL=style.css.map */
